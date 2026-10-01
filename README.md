@@ -91,7 +91,7 @@ A full-stack e-commerce platform built from scratch with a focus on clean archit
 * Added **OpenAPI-based API documentation and type-safe API integration**.
 * Integrated **Grafana, Loki, and Promtail** for application observability.
 
-## Repository: https://github.com/hoangphi117/GOshop
+Repository: https://github.com/hoangphi117/GOshop
 
 ## Contact
 
